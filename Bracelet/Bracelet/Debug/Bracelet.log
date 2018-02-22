@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Serial.cpp
+c:\users\coolf\source\repos\bracelet\bracelet\serial.cpp(155): warning C4018: '<': signed/unsigned mismatch
+  Bracelet.cpp
+  ArduinoWithC++.cpp
+  Generating Code...
+  Bracelet.vcxproj -> C:\Users\coolf\source\repos\Bracelet\Debug\Bracelet.exe
